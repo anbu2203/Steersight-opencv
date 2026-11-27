@@ -415,3 +415,9 @@ Ideas: worker-based vision, gesture throttle, curved roads and night mode, a liv
 - The One-Euro filter is from Casiez, Roussel and Vogel, "1 Euro Filter: A Simple Speed-based Low-pass Filter for Noisy Input in Interactive Systems" (CHI 2012).
 
 Add your own licence file for the SteerSight code before publishing the repository.
+
+---
+
+## Developed by
+
+**Anbumathi Chezhian** and **Shesanth**
